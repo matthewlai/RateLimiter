@@ -34,7 +34,6 @@ using TokenType = unsigned long;
 template <DurationType Period, TokenType CallsPerPeriod>
 class RateLimiter {
  public:
- 
   RateLimiter()
     : bucket_(CallsPerPeriod), last_bucket_update_(TimeNow()), dropped_calls_(0) {}
 
