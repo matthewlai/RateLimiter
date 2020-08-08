@@ -26,7 +26,7 @@ Unlike simpler rate limiting algorithms, the limited calls will be evenly spaced
       Serial.println(String("... dropped ") + dropped_calls + " calls...");
     });
 See examples/RateLimiterTest for the interactive testsuite and more detailed examples. In most cases
-the easiest way to use the library would be using lambdas (as shown in the examples), but you can
+the easiest way to use the library would be using [lambdas](https://en.cppreference.com/w/cpp/language/lambda) (as shown in the examples), but you can
 also call regular functions with it.
 
 ## Installation:
