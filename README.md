@@ -29,6 +29,11 @@ See examples/RateLimiterTest for the interactive testsuite and more detailed exa
 the easiest way to use the library would be using lambdas (as shown in the examples), but you can
 also call regular functions with it.
 
+## Installation:
+1. Download [the zip file](https://github.com/matthewlai/RateLimiter/archive/master.zip)
+2. Sketch -> Include Library -> Add ZIP Library -> Select the downloaded file
+3. Sketch -> Include Library -> RateLimiter
+
 ## License:
 This library is licensed under the MIT License. You may use it in any way you want (including
 modifying it or using it in commercial projects), but the author(s) is(are) not providing any warranty
