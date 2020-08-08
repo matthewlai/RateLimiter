@@ -38,3 +38,5 @@ also call regular functions with it.
 This library is licensed under the MIT License. You may use it in any way you want (including
 modifying it or using it in commercial projects), but the author(s) is(are) not providing any warranty
 or assuming liability. See the LICENSE file for more details.
+
+Copyright (c) 2020 Matthew Lai
